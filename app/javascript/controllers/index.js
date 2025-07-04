@@ -1,9 +1,5 @@
-// Import the application controller
-import { application } from "./application"
+import { application } from './application';
 
-// Import and register controllers
-import HelloController from "./hello_controller"
-application.register("hello", HelloController)
-
-// Export the application for use in other files
-export { application }
+// Using Vue.js for the main app functionality
+// This file is just to satisfy the Rails asset pipeline requirements
+console.log('Controllers loaded');
