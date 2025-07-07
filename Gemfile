@@ -60,7 +60,7 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "tailwindcss-rails", "~> 4.2"
+gem "tailwindcss-rails", "~> 4.3"
 
 # For caching with Redis
 gem 'redis', '~> 4.8'
