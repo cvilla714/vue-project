@@ -63,5 +63,5 @@ end
 gem "tailwindcss-rails", "~> 4.2"
 
 # For caching with Redis
-gem 'redis', '~> 4.8'
+gem 'redis', '~> 5.4'
 gem 'redis-rails', '~> 5.0'
